@@ -1,0 +1,10 @@
+Nome do Caso de Teste
+CT001- Email e Senha incorretos
+CT002- Email vazio
+CT003- Senha Vazia
+CT004- Login com sucesso
+CT005- Adicionando Produto com valor igual a zero
+CT006- Adicionando Produto com valor igual Sete mil e um 
+CT007- Adicionando Produto com valor de Sete mil
+CT008- Adionando produto com valor de Um centavo
+CT009- Excluir o primeiro item da lista
